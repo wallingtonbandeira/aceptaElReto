@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 /**
  *
- * @author Wally
+ * @author Wallington Bandeira
+ *
+ * Tiempo de ejecucion esperado: ~0.900 segs.
+ *
+ * Memoria: 1729 KiB.
+ *
+ * Mejor posicion: 89.
  */
 public class P210primoDeRiesgo {
 
