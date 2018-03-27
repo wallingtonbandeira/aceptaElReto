@@ -11,18 +11,16 @@ public class P413clarasYOscuras {
 
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
-        Random rnd = new Random();
-        int x, y, cantidad = lector.nextInt();
-        int total, division;
+        double x, y, multi, divi, cantidad = lector.nextInt();
         for (int i = 0; i < cantidad; i++) {
-            x = rnd.nextInt(1000) +1;
-            y = rnd.nextInt(1000) + 1;
-            total = x * y;
-            division = total / 2;
-            if (total % 2 != 0) {
-                System.out.println(x +" " + y +" = "+ (division + 1) + " " + division);
+            x = lector.nextInt();
+            y = lector.nextInt();
+            multi = x * y;
+            divi = multi / 2;
+            if (divi % 2 != 0) {
+                System.out.println(divi + 1 +" "+ divi);
             } else {
-                System.out.println(x +" " + y +" = "+ division + " " + division);
+                System.out.println(divi + " " + divi);
             }
         }
     }
