@@ -1,4 +1,3 @@
-# Acepta el reto
 
 Este repositorio lo utilizo para guardar los ejercicios que he podido hacer en la web aceptaelreto.
 
@@ -6,6 +5,6 @@ Este repositorio lo utilizo para guardar los ejercicios que he podido hacer en l
 
 Los codigos utilizados no son para nada optimizados, y solo guardo el primer intento aceptado por el juez de la web
 
-## Authors
+## Autor
 
 * **Wallington** *'Wally'* **Bandeira**
